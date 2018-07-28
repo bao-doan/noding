@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "demo for nodejs app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bao-doan/noding.git"
+  },
+  "author": "baodoan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bao-doan/noding/issues"
+  },
+  "homepage": "https://github.com/bao-doan/noding#readme",
+  "dependencies": {
+    "lodash": "~4.17.10"
+  }
+}

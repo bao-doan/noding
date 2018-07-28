@@ -3,7 +3,7 @@ var bar = require('./my-module/bar.js');
 bar();
 // Exmaple for First-class Function
 function greeting() {
-    return ' Greeting!';
+    return ' Greeting! zzz';
 }
 function printGreeting(fn) {
     console.log(fn);

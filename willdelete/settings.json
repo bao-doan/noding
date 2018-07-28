@@ -1,0 +1,12 @@
+{
+    "editor.minimap.enabled": true,
+    "window.zoomLevel": 0,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "workbench.sideBar.location": "left",
+    "window.menuBarVisibility": "default",
+    "editor.renderControlCharacters": false,
+    "editor.fontSize": 15,
+    "editor.fontWeight": "500",
+    "workbench.colorTheme": "Winter is Coming (Light)",
+   
+}
